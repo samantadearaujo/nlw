@@ -49,7 +49,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 ## :heavy_check_mark: :iphone: Mobile
 
 <h1 align="center">
-    <img alt="Mobile Detail" src=".github/screen01.svg" width="300px">
+    <img alt="Mobile Detail" src="../../.github/screen01.svg" width="300px">
 </h1>
 
 <a id="como-usar"></a>
