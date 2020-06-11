@@ -7,9 +7,6 @@
   <a href="https://rocketseat.com.br">
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1">
   </a>
-  <a>
-  <br>
- <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmank319%2FelementaryPlus%2Fissues%2F455&psig=AOvVaw23igQUAk8u1kQ-rRIFFCM3&ust=1592002422183000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLid5Kzt-ukCFQAAAAAdAAAAABAD" width="16" height="16" alt="Run in Insomnia">
 </p>
 
 # Índice
@@ -49,15 +46,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 - O layout está disponível no **[Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/)**;
 
-<h1 align="center">
-    <img alt="Web" src=".github/Video.gif" width="900px">
-</h1>
-
 ## :heavy_check_mark: :iphone: Mobile
-
-<h1 align="center">
-    <img alt="Mobile Detail" src=".github/screen01.svg" width="300px">
-</h1>
 
 <a id="como-usar"></a>
 
@@ -111,7 +100,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 As aulas foram ministradas pelo mestre **[Diego Fernandes](https://github.com/diego3g)** nas aulas da **Next Level Week**.
 
-<h4 align="center">
+<h4 align="left">
     <span>Linkedin</span> 
     <a href="https://www.linkedin.com/in/samanta-de-araujo/?locale=en_US" target="_blank">Samanta de Araújo</a>
 </h4>
