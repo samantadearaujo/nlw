@@ -27,6 +27,14 @@ Essa aplicação foi construída na trilha <strong>Booster</strong> da <strong>N
 
 <a id="documentacao"></a>
 
+## :computer: Web
+
+- O layout está disponível no **[Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/)**;
+
+## :iphone: Mobile
+
+<a id="como-usar"></a>
+
 ## :books: Documentação
 
 Este projeto foi utilizado :  **TypeScript**, **Node**, **ReactJS** e **React Native**.
@@ -41,14 +49,6 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 - [Node.js](https://nodejs.org/en/)
 - [ReactJS](https://reactjs.org/)
 - [React Native](https://reactnative.dev/)
-
-## :heavy_check_mark: :computer: Web
-
-- O layout está disponível no **[Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/)**;
-
-## :heavy_check_mark: :iphone: Mobile
-
-<a id="como-usar"></a>
 
 ## :fire: Como usar
 
