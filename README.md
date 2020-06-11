@@ -27,7 +27,7 @@ Essa aplicação foi construída na trilha <strong>Booster</strong> da <strong>N
 
 <a id="documentacao"></a>
 
-## :computer: Web e ## :iphone: Mobile
+## :computer: Web e :iphone: Mobile
 
 - O layout está disponível no **[Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/)**;
 
